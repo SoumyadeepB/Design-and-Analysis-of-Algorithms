@@ -2,7 +2,7 @@
 
 int main()
 {
-	int job[15],s[15],f[15],a[15]={0},n,fin,i,j,index,temp;
+	int job[100],s[100],f[100],a[100]={0},n,fin,i,j,index,temp;
 	printf("\n No. of Jobs : ");
 	scanf("%d",&n);
 	
