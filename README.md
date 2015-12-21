@@ -20,7 +20,7 @@ Backtracking:
 Dynamic Programming:
 - Matrix Chain Multiplication
 
-String Matching:
+String Matching :
 - Rabin-Karp
 - Knuth-Morris-Pratt (KMP)
 
