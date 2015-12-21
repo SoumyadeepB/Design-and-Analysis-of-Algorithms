@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 
-char t[24],p[15];
-int pi[15];
+char t[150],p[150];
+int pi[150];
 void prefix(int m)
 {
 	int q,k=0;
