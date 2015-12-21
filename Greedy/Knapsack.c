@@ -1,9 +1,9 @@
 #include<stdio.h>
-double p[10],w[10],pw[10];
+double p[100],w[100],pw[100];
 int main()
 {
-	int m,n,i,j,item[10]={0};
-	double temp,rem,sol[10]={0},profit=0;
+	int m,n,i,j,item[100]={0};
+	double temp,rem,sol[010]={0},profit=0;
 	
     printf("\n Enter the knapsack capacity : ");
 	scanf("%d",&m);
