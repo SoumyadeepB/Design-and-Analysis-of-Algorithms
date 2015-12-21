@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int a[10],temp[10];
+int a[100],temp[100];
 
 void merge(int beg,int mid,int end)
 {
