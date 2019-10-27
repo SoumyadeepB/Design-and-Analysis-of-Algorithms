@@ -37,7 +37,7 @@ void quicksort(int beg,int end)
 	 }
 }
 
-void main()
+int main()
 {
 	
   int n,i;
@@ -58,5 +58,5 @@ void main()
    for(i=0;i<n;i++)
    
    	printf("%d  ",a[i]);
-  	
+  return 0;
 }
