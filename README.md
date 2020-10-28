@@ -24,7 +24,7 @@ String Matching:
 - Rabin-Karp
 - Knuth-Morris-Pratt (KMP)
 
-Minimum Spanning Tree:
+Minimum Spanning Tree: 
 - Prim's Algorithm
 - Kruskal's Algorithm
 
