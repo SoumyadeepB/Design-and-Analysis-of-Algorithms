@@ -1,5 +1,5 @@
 # Design-and-Analysis-of-Algorithms
-Collection of popular algorithms coded in C:
+Collection of popular algorithms coded in C: 
 
 Sorting:
 - Heap
